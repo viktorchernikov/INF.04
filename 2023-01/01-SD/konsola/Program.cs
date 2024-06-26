@@ -1,14 +1,6 @@
 using System;
 
-/********************************************************
-    klasa:  Notatka
-    opis:    Jest to klasa reprezentujaca soba notatke
-    pola:   licznik - prechowuje liczbe wszystkich istniejacych notatek
-                identyfikator - unikatowy identyfikator tej notatki
-                tytul - pole przechowujace tytul tej notatki
-                tresc - pole przechowjace tresc tej notatki
-    autor: Viktor Chernikov
-* ****************************************************/
+s
 public class Notatka 
 {
     private static int licznik = 0;
