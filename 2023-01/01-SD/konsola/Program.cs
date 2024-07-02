@@ -1,6 +1,14 @@
 using System;
 
-s
+// ************************************************
+// klasa: Notatka 
+// opis:  Jest to klasa reprezentująca notatkę zawierającą tytuł oraz tekst notatki.
+// pola:  tytul - tytuł notatki
+//        tresc - zawartość (treść) notatki
+//        identyfikator - unikatowy identyfikator notatki
+//        licznik - przechowuje liczbę wszystkich utworzonych notatek
+// autor: Viktor Chernikov
+// ************************************************
 public class Notatka 
 {
     private static int licznik = 0;
